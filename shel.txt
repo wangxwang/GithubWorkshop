@@ -1,0 +1,6 @@
+ Your name: shelley
+ Why you came to the workshop? to learn git properly
+ Is this your first event? no
+ Favorite ice cream flavor? mint choco chip
+ What is the name of the person sitting to the right and left of you? khanh
+ Do you want to contribute to open source in the future? yes
